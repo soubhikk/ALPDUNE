@@ -7,7 +7,7 @@ rdet = 2.5 #m -- radius of the detector
 DetDist = 574.0 #m -- distance between the meson source (target) and the detector
 ThetaDet = rdet/DetDist
 
-MMesTEST = float(sys.argv[1]) #Mass of the parent meson (\pi^0, \eta, \eta^\prime) in GeV
+MMesTEST = float(sys.argv[1]) #Mass of the parent meson (\pi^0, \eta, \eta^\prime) in GeV: Can be found in the "ParentMesons" directory
 MpName = str(sys.argv[2]) #Location of the Pythia-output (converted to .npy) of the parent meson four-vectors
 MpVec = np.load(MpName)
     
