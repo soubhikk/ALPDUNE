@@ -1,1 +1,1 @@
-This Git repository contains the necessary codes and data files to reproduce the numerical results obtained in ???
+This Git repository contains the necessary codes and data files to reproduce the numerical results obtained in the work "Heavy Axion Opportunities at the DUNE Near Detector" by Kevin J. Kelly, Soubhik Kumar and Zhen Liu.
